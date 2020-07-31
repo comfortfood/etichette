@@ -1,6 +1,5 @@
 <?php
 
-
 interface Template
 {
     function writeStrip($pdf, $csvLine);
