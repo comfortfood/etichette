@@ -41,7 +41,7 @@
             <label for="styled"></label>
             <textarea id="styled" cols="70" rows="50"></textarea>
             <p>
-                <button>Show PDF</button>
+                <button>Make PDF</button>
             </p>
         </article>
     </div>
