@@ -4,7 +4,7 @@ A Web App that turns CSV data about a record collection into Jukebox title strip
 
 The final result should look like:
 
-![Etichette](./images/etichette.jpeg =250x)
+![Etichette](./images/etichette.jpeg)
 
-![Jukebox Strips](images/jukebox-title-strips.png =250x)
+![Jukebox Strips](images/jukebox-title-strips.png)
 
